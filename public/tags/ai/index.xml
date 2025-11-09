@@ -9,18 +9,17 @@
     <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>我的 AI 博客简介</title>
+      <title>AI 博客简介</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;近期一直在公司负责数据库和 AI 交互的工作，搭了很多 MCP 和 Agent，突然觉得个人博客是个不错的应用场景。&lt;/p&gt;
-&lt;p&gt;所以在此实践出来了。&lt;/p&gt;
-&lt;p&gt;博客这种个人分享平台，在小红书、抖音这么发达的当下，已经是一个除了技术人员之外很少有人会做的事情了。&lt;/p&gt;
-&lt;p&gt;但是我觉得如果能加上用我自己的思想调教好的代理 Agent 在旁边对话，记录和转达大家对我想说的话，那就很有意义了，因为小红书无论如何也不会给每个人配一个 Agent。&lt;/p&gt;
-&lt;p&gt;目前右下角的按钮，点开会出现一个侧边的聊天机器人，它有我的博客文章知识，以及存储读者反馈到后台的功能。&lt;/p&gt;
-&lt;p&gt;具体实现方法是：MCP 工具注册在我司的数据库当中，Agent 部署在 Dify 云服务器，然后用 Hugo 做了这样的简易界面。&lt;/p&gt;
+      <description>&lt;p&gt;近期我一直在公司负责数据库和 AI 交互的相关工作，期间搭建了许多 MCP 和 Agent 系统。突然萌生了一个想法：为什么不把个人博客作为一个实际应用场景呢？&lt;/p&gt;
+&lt;p&gt;于是，这个博客便诞生了。&lt;/p&gt;
+&lt;p&gt;目前，您会在页面右下角看到一个按钮，点击它会打开一个侧边的聊天 Agent。这个 Agent 不仅可以将我的博客内容作为知识库，还会记录和存储读者的反馈，形成一个动态的记忆系统。&lt;/p&gt;
+&lt;p&gt;与它对话，就像直接与我对话一样。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实现原理&lt;/strong&gt;：MCP 工具注册在公司的数据库中，Agent 部署在 Dify 云服务器上，前端界面则是通过 Hugo 和 Cloudflare 搭建的。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;欢迎大家把任何想法，包括商业合作，直接发送给机器人。&lt;/p&gt;</description>
+&lt;p&gt;欢迎大家随时与机器人互动，无论是分享想法还是讨论商业合作！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
