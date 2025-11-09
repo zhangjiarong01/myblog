@@ -7,30 +7,31 @@ theme = 'PaperMod'
   defaultTheme = "dark"
   ShowReadingTime = true
   disableSpecial1stPost = true
-[params.assets]
-  customCSS = ["css/extra.css"]
+
+  [params.assets]
+    customCSS = ["css/extra.css"]
+
+  [params.homeInfoParams]
+    Title = "Hi，我是 Matthew"
+    Content = "土木 -> 金融 -> 量化 -> 数据库产品经理"
+
+  [params.profileMode]
+    enabled = true
+    title = "Matthew"
+    subtitle = "土木 -> 金融 -> 量化 -> 数据库产品经理"
+    imageUrl = "/img/avatar.jpg"   # 放在 static/img/avatar.jpg
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+      name = "关于我"
+      url = "/about/"
+
+    [[params.profileMode.buttons]]
+      name = "全部文章"
+      url = "/posts/"
 
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true
-
-
-
-[params.homeInfoParams]
-  Title = "Hi，我是某某"
-  Content = "一句话自我介绍 + 关注方向。"
-
-[params.profileMode]
-  enabled = true
-  title = "Matthew"
-  subtitle = "土木->金融->量化->数据库产品经理"
-  imageUrl = "/img/avatar.jpg"   # 放到 static/img/avatar.png
-  imageWidth = 120
-  imageHeight = 120
-[[params.profileMode.buttons]]
-  name = "关于我"
-  url = "/about/"
-[[params.profileMode.buttons]]
-  name = "全部文章"
-  url = "/posts/"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
