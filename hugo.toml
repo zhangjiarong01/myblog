@@ -1,4 +1,4 @@
-baseURL = https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/
+baseURL = "https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/"
 languageCode = 'zh-cn'
 title = 'Matthew的博客'
 theme = 'PaperMod'
