@@ -2,13 +2,16 @@ baseURL = "https://zhangjiarong01.github.io/"
 languageCode = 'zh-cn'
 title = 'Matthew的博客'
 theme = 'PaperMod'
+relativeURLs = true
 
 [params]
   defaultTheme = "dark"
   ShowReadingTime = true
   disableSpecial1stPost = true
+  disableAssetsIntegrity = true   # 👈 重要：修复 CSS integrity 报错
 
   [params.assets]
+    disableFingerprinting = true
     customCSS = ["css/extra.css"]
 
   [params.homeInfoParams]
