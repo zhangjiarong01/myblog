@@ -25,3 +25,6 @@ draft: false
 ---
 
 欢迎大家随时与机器人互动，无论是分享想法还是讨论商业合作！
+
+我已入驻爱发电。
+支持链接 👉 https://afdian.com/a/matthewme

@@ -38,3 +38,27 @@ relativeURLs = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[menu]
+
+  # 顶部导航里放“付费入口”
+  [[menu.main]]
+    identifier = "support"
+    name = "💎 支持我"
+    url = "https://afdian.com/a/matthewme"
+    weight = 10
+    [menu.main.params]
+      external = true
+      rel = "noopener noreferrer"
+      target = "_blank"
+
+  # 你也可以顺手放几个常用入口
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 20
+
+  [[menu.main]]
+    name = "关于我"
+    url = "/about/"
+    weight = 30
