@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matthew的博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Matthew的博客</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 博客简介</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;近期我一直在公司负责数据库和 AI 交互的相关工作，期间搭建了许多 MCP 和 Agent 系统。突然萌生了一个想法：为什么不把个人博客作为一个实际应用场景呢？&lt;/p&gt;
+&lt;p&gt;于是，这个博客便诞生了。&lt;/p&gt;
+&lt;p&gt;目前，您会在页面右下角看到一个按钮，点击它会打开一个侧边的聊天 Agent。这个 Agent 不仅可以将我的博客内容作为知识库，还会记录和存储读者的反馈，形成一个动态的记忆系统。&lt;/p&gt;
+&lt;p&gt;与它对话，就像直接与我对话一样。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实现原理&lt;/strong&gt;：MCP 工具注册在公司的数据库中，Agent 部署在 Dify 云服务器上，前端界面则是通过 Hugo 和 Cloudflare 搭建的。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;欢迎大家随时与机器人互动，无论是分享想法还是讨论商业合作！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>论个体主体性</title>
+      <link>http://localhost:1313/posts/%E8%AE%BA%E4%B8%AA%E4%BD%93%E4%B8%BB%E4%BD%93%E6%80%A7/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E8%AE%BA%E4%B8%AA%E4%BD%93%E4%B8%BB%E4%BD%93%E6%80%A7/</guid>
+      <description>&lt;audio controls preload=&#34;none&#34; class=&#34;music-player&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/music/Leisure - Miles Away.ogg&#34; type=&#34;audio/ogg&#34;&gt;
+&lt;/audio&gt;
+&lt;hr&gt;
+&lt;p&gt;“感情靠的是吸引，不是追求”
+———— 前一段时间和一位朋友聊天时候听到了这些话。&lt;/p&gt;
+&lt;p&gt;结合过去几年自己常常反思，和读书的感悟，突然把很多感情、生活的思绪贯通了，于是想写下这篇文章。&lt;/p&gt;
+&lt;p&gt;不仅是提醒别人，也是提醒自己。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;为什么人常常会丧失个体主体性&#34;&gt;为什么人常常会丧失个体主体性？&lt;/h2&gt;
+&lt;p&gt;看似没有太多关联的感情和个体主体性，却有着千丝万缕的联系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“钱总是流向不缺钱的人，爱总是流向不缺爱的人。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其实本质在于，人的本性是倾向于做一个跟随者。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当上学时候，老师告诉学生什么样的是好学生，于是你不加思考的去做一个乖乖学生；&lt;/p&gt;
+&lt;p&gt;当进入社会之后，老板和世俗用金钱与权威影响你，于是许多人不加思考的做了一个牛马；&lt;/p&gt;
+&lt;p&gt;当在家时候，父母告诉你，要组建一个家庭生儿育女，于是许多人不加思考的去结婚生子；&lt;/p&gt;
+&lt;p&gt;在亲密关系里，一旦一方有更强的自我意识，没有保持合适的距离时，慢慢相处之后，另一个人也会倾向于迎合对方的标准，变成一个讨好者。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;世俗只能不断地教你做一个跟随者，但引领者永远只能自发生长出来。&lt;/p&gt;
+&lt;p&gt;其实也不难理解，人进化了几亿年，但仍然丢不掉原始社会的本能
+———— 一个种群总是需要一些先行者去引领方向。&lt;/p&gt;
+&lt;p&gt;但至于这个方向是找到了更好的猎物，还是走到的悬崖边上，真的有人关心吗？不会的，动物只是觉得跟着头领安全，动物只会觉得，有许多同伴跟随的头领做事必然有它的合理之处。&lt;/p&gt;
+&lt;p&gt;所以鼓起勇气，尝试成为一个引领者，成为一个超越自我的人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;如何保持个体的主体性&#34;&gt;如何保持个体的主体性？&lt;/h2&gt;
+&lt;p&gt;其实保持个体主体性，与常见的“爱自己”、“做自己”、“不惧权威”有许多相似之处。&lt;/p&gt;
+&lt;p&gt;先破后立，我觉得这个是相当艰难的过程，因为当一个人没有亲身体会作为跟随者的痛苦时，他是很难自发地想要成为一个引领者的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;仔细想想，我们成长的过程中，有多少次对某种评价体系祛魅了呢？&lt;/p&gt;
+&lt;p&gt;曾经我自己也有学历崇拜，后来我自己到了北大，才发现，这里的学生、老师，只是比普通人更聪明了一些，更懂如何在学界这个赛道去卷。&lt;/p&gt;
+&lt;p&gt;可是如果一旦换了一个评价体系，钱、美、自由，这么多雅俗共赏的赛道，学识又算得了什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;心理学上有个理论是（应该是精神分析/心理动力学的流派），当一个人患上抑郁、焦虑等疾病时，最重要的不是开导他关注外界谁对谁错，而是引导他关注内心，相信自己是可爱的、有价值的，因为一个人抑郁的本源都是因为自己无意识间把遭遇的种种都反映为对自己的不认可上。&lt;/p&gt;
+&lt;p&gt;因此当你因为种种煎熬终于发自内心的决定，不再怀疑自己的主体评价标准时，就实现了蜕生。&lt;/p&gt;
+&lt;p&gt;这时你可以做自己想要的任何事，为世界增添色彩、爱世界与他人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;保持个体主体性有什么意义呢&#34;&gt;保持个体主体性，有什么意义呢？&lt;/h2&gt;
+&lt;p&gt;说实话，没有。&lt;/p&gt;
+&lt;p&gt;意义本身就是一个社会共同意识创造的概念，一旦你把“寻求个体主体性”这种自己创造意义体系的行为，去拿“意义”衡量，那就已经自相矛盾了。&lt;/p&gt;
+&lt;p&gt;但是具体来说，又有意义，因为世俗评价体系当中，财富、权力、爱慕总会流向有个体主体意识的人，流向引领者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“钱总是流向不缺钱的人，爱总是流向不缺爱的人。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;举个简单的例子，现在的网络发达了，可以从线上主播赚钱的多少来看出来，你觉得是那些卖力讨好观众的主播赚钱吗，不是的。往往是那些有自己的一套价值观，以自我为中心的人，单纯释放自己的魅力和爱好的人，更容易被打赏。&lt;/p&gt;
+&lt;p&gt;而且更重要的是，你会体会到一种坚定和平静感。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果简单地说什么样算是有个体主体性了，那就是，不再迎合任何评价体系。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;认清自己的需求，去寻找解决需求的途径。&lt;/li&gt;
+&lt;li&gt;钱给自己花。&lt;/li&gt;
+&lt;li&gt;相信自己的判断。&lt;/li&gt;
+&lt;li&gt;相信自己的审美。&lt;/li&gt;
+&lt;li&gt;走出自己的道路。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My Solitude</title>
+      <link>http://localhost:1313/posts/my-solitude/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-solitude/</guid>
+      <description>&lt;p&gt;欢迎来到我的博客。这是第一篇文章。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
