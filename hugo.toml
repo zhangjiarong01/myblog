@@ -11,7 +11,7 @@ relativeURLs = true
   disableSpecial1stPost = true
   disableAssetsIntegrity = true   # 👈 重要：修复 CSS integrity 报错
   ShowCodeCopyButtons = true
-  
+
   [params.assets]
     disableFingerprinting = true
     customCSS = ["css/extra.css"]
@@ -64,3 +64,6 @@ relativeURLs = true
     name = "关于我"
     url = "/about/"
     weight = 30
+
+[permalinks]
+posts = "/posts/:slug/"

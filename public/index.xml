@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Matthew的博客</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Matthew的博客</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI 博客简介</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;近期我一直在公司负责数据库和 AI 交互的相关工作，期间搭建了许多 MCP 和 Agent 系统。突然萌生了一个想法：为什么不把个人博客作为一个实际应用场景呢？&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Matthew的博客</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/</link><description>Recent content on Matthew的博客</description><generator>Hugo -- 0.152.2</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 博客简介</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/about/</link><pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate><guid>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/about/</guid><description>&lt;p&gt;近期我一直在公司负责数据库和 AI 交互的相关工作，期间搭建了许多 MCP 和 Agent 系统。突然萌生了一个想法：为什么不把个人博客作为一个实际应用场景呢？&lt;/p&gt;
 &lt;p&gt;于是，这个博客便诞生了。&lt;/p&gt;
 &lt;p&gt;目前，您会在页面右下角看到一个按钮，点击它会打开一个侧边的聊天 Agent。这个 Agent 不仅可以将我的博客内容作为知识库，还会记录和存储读者的反馈，形成一个动态的记忆系统。&lt;/p&gt;
 &lt;p&gt;与它对话，就像直接与我对话一样。&lt;/p&gt;
@@ -21,15 +6,8 @@
 &lt;hr&gt;
 &lt;p&gt;欢迎大家随时与机器人互动，无论是分享想法还是讨论商业合作！&lt;/p&gt;
 &lt;p&gt;我已入驻爱发电。
-支持链接 👉 &lt;a href=&#34;https://afdian.com/a/matthewme&#34;&gt;https://afdian.com/a/matthewme&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>论个体主体性</title>
-      <link>http://localhost:1313/posts/%E8%AE%BA%E4%B8%AA%E4%BD%93%E4%B8%BB%E4%BD%93%E6%80%A7/</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E8%AE%BA%E4%B8%AA%E4%BD%93%E4%B8%BB%E4%BD%93%E6%80%A7/</guid>
-      <description>&lt;!-- &lt;audio controls preload=&#34;none&#34; class=&#34;music-player&#34;&gt;
-  &lt;source src=&#34;./music/Leisure - Miles Away.ogg&#34; type=&#34;audio/ogg&#34;&gt;
+支持链接 👉 &lt;a href="https://afdian.com/a/matthewme"&gt;https://afdian.com/a/matthewme&lt;/a&gt;&lt;/p&gt;</description></item><item><title>论个体主体性</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/posts/%E8%AE%BA%E4%B8%AA%E4%BD%93%E4%B8%BB%E4%BD%93%E6%80%A7/</link><pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate><guid>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/posts/%E8%AE%BA%E4%B8%AA%E4%BD%93%E4%B8%BB%E4%BD%93%E6%80%A7/</guid><description>&lt;!-- &lt;audio controls preload="none" class="music-player"&gt;
+&lt;source src="./music/Leisure - Miles Away.ogg" type="audio/ogg"&gt;
 &lt;/audio&gt; --&gt;
 &lt;hr&gt;
 &lt;p&gt;“感情靠的是吸引，不是追求”
@@ -37,7 +15,7 @@
 &lt;p&gt;结合过去几年自己常常反思，和读书的感悟，突然把很多感情、生活的思绪贯通了，于是想写下这篇文章。&lt;/p&gt;
 &lt;p&gt;不仅是提醒别人，也是提醒自己。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;为什么人常常会丧失个体主体性&#34;&gt;为什么人常常会丧失个体主体性？&lt;/h2&gt;
+&lt;h2 id="为什么人常常会丧失个体主体性"&gt;为什么人常常会丧失个体主体性？&lt;/h2&gt;
 &lt;p&gt;看似没有太多关联的感情和个体主体性，却有着千丝万缕的联系。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;“钱总是流向不缺钱的人，爱总是流向不缺爱的人。”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;其实本质在于，人的本性是倾向于做一个跟随者。&lt;/p&gt;
@@ -55,7 +33,7 @@
 &lt;p&gt;“感情靠的是吸引，不是追求”。也是这个道理，当吸引的时候，必然是这个人身上有一种引领者的气质，当追求时候，必然是这个人身上有追随者的气质。前者给人的感觉强于后者，是本能。&lt;/p&gt;
 &lt;p&gt;所以鼓起勇气，尝试自立一套体系，成为一个引领者，成为一个尼采书中说的“超人”。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;如何保持个体的主体性&#34;&gt;如何保持个体的主体性？&lt;/h2&gt;
+&lt;h2 id="如何保持个体的主体性"&gt;如何保持个体的主体性？&lt;/h2&gt;
 &lt;p&gt;我们常常听说：“学会爱自己”、“做自己”、“知道自己想要什么”，保持个体主体性，其实也就是这个意思。&lt;/p&gt;
 &lt;p&gt;但是看似简单的事情，做起来却相当困难，需要一个先破后立的过程&lt;/p&gt;
 &lt;p&gt;契机可能是感情&lt;/p&gt;
@@ -72,7 +50,7 @@
 &lt;p&gt;所以此刻如果有让你困扰的评价体系，若能跳脱出来审视，其实都算不得什么。当想通这一点，历经种种内心的煎熬后决定：不再盲从任何外界的评价标准，而是建立属于自己的价值坐标系。这一刻，便是真正的蜕变。&lt;/p&gt;
 &lt;p&gt;此后，你去追寻自己想做的事，就不是自私，而是去真实自然地发光发热——既能为世界增添独特的色彩，也能去爱他人&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;保持个体主体性有什么意义呢&#34;&gt;保持个体主体性，有什么意义呢？&lt;/h2&gt;
+&lt;h2 id="保持个体主体性有什么意义呢"&gt;保持个体主体性，有什么意义呢？&lt;/h2&gt;
 &lt;p&gt;说实话，没有。&lt;/p&gt;
 &lt;p&gt;意义本身就是一个社会共同意识创造的概念，一旦你把“寻求个体主体性”这种自己创造意义体系的行为，去拿“意义”衡量，那就已经自相矛盾了。&lt;/p&gt;
 &lt;p&gt;但是具体来说，又有意义，因为世俗评价体系当中，财富、权力、爱慕总会流向有个体主体意识的人，流向引领者。&lt;/p&gt;
@@ -87,23 +65,9 @@
 &lt;li&gt;相信自己的判断。&lt;/li&gt;
 &lt;li&gt;相信自己的审美。&lt;/li&gt;
 &lt;li&gt;走出自己的道路。&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>My Solitude</title>
-      <link>http://localhost:1313/posts/my-solitude/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-solitude/</guid>
-      <description>&lt;p&gt;欢迎来到我的博客。这是第一篇文章。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>风险不值钱了：如何在高不确定性时代保有自由</title>
-      <link>http://localhost:1313/posts/%E8%B4%A2%E5%AF%8C%E6%98%AF%E8%87%AA%E7%94%B1%E7%9A%84%E8%BE%B9%E7%95%8C/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E8%B4%A2%E5%AF%8C%E6%98%AF%E8%87%AA%E7%94%B1%E7%9A%84%E8%BE%B9%E7%95%8C/</guid>
-      <description>&lt;p&gt;&lt;em&gt;——风险管理的终极意义，是让你有资格“拒绝”&lt;/em&gt;&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>My Solitude</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/posts/my-solitude/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/posts/my-solitude/</guid><description>&lt;p&gt;欢迎来到我的博客。这是第一篇文章。&lt;/p&gt;</description></item><item><title>风险不值钱了：如何在高不确定性时代保有自由</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/posts/%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%80%BC%E9%92%B1%E4%BA%86%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%98%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%97%B6%E4%BB%A3%E4%BF%9D%E6%9C%89%E8%87%AA%E7%94%B1/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/posts/%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%80%BC%E9%92%B1%E4%BA%86%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%98%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%97%B6%E4%BB%A3%E4%BF%9D%E6%9C%89%E8%87%AA%E7%94%B1/</guid><description>&lt;p&gt;&lt;em&gt;——风险管理的终极意义，是让你有资格“拒绝”&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;一自由不是确定性而是可控的不确定性&#34;&gt;一、自由，不是确定性，而是可控的不确定性&lt;/h2&gt;
+&lt;h2 id="一自由不是确定性而是可控的不确定性"&gt;一、自由，不是确定性，而是可控的不确定性&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“自由不是想干什么就干什么，而是可以不被迫干什么。”
 ——以赛亚·伯林，《两种自由观》&lt;/p&gt;
@@ -113,7 +77,7 @@
 &lt;p&gt;一个人买了一套房，签了三十年房贷；他可能确实“拥有”了某种安稳，但他能搬走吗？能自由换城市、换职业、换生活方式吗？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;不能。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;这就是最早让我思考“自由”这个问题的起点。真正的自由，应该是一种在&lt;strong&gt;不确定中保有决策权&lt;/strong&gt;的状态——即使未来未卜，我也仍然可以说“不”，仍然有选择。&lt;/p&gt;
-&lt;h3 id=&#34;财务上的自由本质是有能力应对未知&#34;&gt;财务上的自由，本质是“有能力应对未知”&lt;/h3&gt;
+&lt;h3 id="财务上的自由本质是有能力应对未知"&gt;财务上的自由，本质是“有能力应对未知”&lt;/h3&gt;
 &lt;p&gt;这个“能力”，本质上来自于三件事：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;流动性&lt;/strong&gt;：是否有可以灵活支配的资金；&lt;/li&gt;
@@ -151,51 +115,48 @@ $$&lt;/p&gt;
 &lt;p&gt;反过来说，&lt;strong&gt;如果你能确定“赔率稳，成功率高”——那么你才配得上加杠杆。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;而大多数人呢？既不了解赔率，也高估了胜率，于是满仓、梭哈，最后连翻身的自由都没有。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;二宏观经济为什么风险溢价在塌陷&#34;&gt;二、宏观经济：为什么风险溢价在塌陷&lt;/h2&gt;
+&lt;h2 id="二宏观经济为什么风险溢价在塌陷"&gt;二、宏观经济：为什么风险溢价在塌陷&lt;/h2&gt;
 &lt;p&gt;我们正在经历一个时代转折点：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;你冒了风险，却不再能拿到风险溢价。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;这是过去十年最大的变化，也是大多数人直觉上“努力更难挣钱了”的真实来源。&lt;/p&gt;
-&lt;h3 id=&#34;01十年大趋势利率下行杠杆上升&#34;&gt;01｜十年大趋势：利率下行，杠杆上升&lt;/h3&gt;
+&lt;h3 id="01十年大趋势利率下行杠杆上升"&gt;01｜十年大趋势：利率下行，杠杆上升&lt;/h3&gt;
 &lt;p&gt;看一组数据（来源：国家统计局、人民银行、Wind）：&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;2013&lt;/th&gt;
-          &lt;th&gt;2023&lt;/th&gt;
-          &lt;th&gt;变化幅度&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;GDP 年均增速&lt;/td&gt;
-          &lt;td&gt;7.8%&lt;/td&gt;
-          &lt;td&gt;4.4%&lt;/td&gt;
-          &lt;td&gt;↓ 43%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;M2 年均增速&lt;/td&gt;
-          &lt;td&gt;13.6%&lt;/td&gt;
-          &lt;td&gt;9.7%&lt;/td&gt;
-          &lt;td&gt;↓ 29%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;十年期国债收益率（年末）&lt;/td&gt;
-          &lt;td&gt;4.4%&lt;/td&gt;
-          &lt;td&gt;2.3%&lt;/td&gt;
-          &lt;td&gt;↓ 48%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;居民部门杠杆率（总债务/GDP）&lt;/td&gt;
-          &lt;td&gt;36%&lt;/td&gt;
-          &lt;td&gt;63%&lt;/td&gt;
-          &lt;td&gt;↑ 75%&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指标&lt;/th&gt;
+&lt;th&gt;2013&lt;/th&gt;
+&lt;th&gt;2023&lt;/th&gt;
+&lt;th&gt;变化幅度&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;GDP 年均增速&lt;/td&gt;
+&lt;td&gt;7.8%&lt;/td&gt;
+&lt;td&gt;4.4%&lt;/td&gt;
+&lt;td&gt;↓ 43%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M2 年均增速&lt;/td&gt;
+&lt;td&gt;13.6%&lt;/td&gt;
+&lt;td&gt;9.7%&lt;/td&gt;
+&lt;td&gt;↓ 29%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;十年期国债收益率（年末）&lt;/td&gt;
+&lt;td&gt;4.4%&lt;/td&gt;
+&lt;td&gt;2.3%&lt;/td&gt;
+&lt;td&gt;↓ 48%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;居民部门杠杆率（总债务/GDP）&lt;/td&gt;
+&lt;td&gt;36%&lt;/td&gt;
+&lt;td&gt;63%&lt;/td&gt;
+&lt;td&gt;↑ 75%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;用一句话总结：&lt;strong&gt;钱更多了，回报却更低了，负债反而更重了。&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;用一句话总结：&lt;strong&gt;钱更多了，回报却更低了，负债反而更重了。&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

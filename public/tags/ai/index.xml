@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI on Matthew的博客</title>
-    <link>http://localhost:1313/tags/ai/</link>
-    <description>Recent content in AI on Matthew的博客</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI 博客简介</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;近期我一直在公司负责数据库和 AI 交互的相关工作，期间搭建了许多 MCP 和 Agent 系统。突然萌生了一个想法：为什么不把个人博客作为一个实际应用场景呢？&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI on Matthew的博客</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/tags/ai/</link><description>Recent content in AI on Matthew的博客</description><generator>Hugo -- 0.152.2</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 博客简介</title><link>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/about/</link><pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate><guid>https://6910a50fdcfd48fcef5af243--lambent-dasik-03c7b5.netlify.app/about/</guid><description>&lt;p&gt;近期我一直在公司负责数据库和 AI 交互的相关工作，期间搭建了许多 MCP 和 Agent 系统。突然萌生了一个想法：为什么不把个人博客作为一个实际应用场景呢？&lt;/p&gt;
 &lt;p&gt;于是，这个博客便诞生了。&lt;/p&gt;
 &lt;p&gt;目前，您会在页面右下角看到一个按钮，点击它会打开一个侧边的聊天 Agent。这个 Agent 不仅可以将我的博客内容作为知识库，还会记录和存储读者的反馈，形成一个动态的记忆系统。&lt;/p&gt;
 &lt;p&gt;与它对话，就像直接与我对话一样。&lt;/p&gt;
@@ -21,7 +6,4 @@
 &lt;hr&gt;
 &lt;p&gt;欢迎大家随时与机器人互动，无论是分享想法还是讨论商业合作！&lt;/p&gt;
 &lt;p&gt;我已入驻爱发电。
-支持链接 👉 &lt;a href=&#34;https://afdian.com/a/matthewme&#34;&gt;https://afdian.com/a/matthewme&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+支持链接 👉 &lt;a href="https://afdian.com/a/matthewme"&gt;https://afdian.com/a/matthewme&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
