@@ -1,0 +1,30 @@
+/* 表格整体居中 + 样式美化 */
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: auto;           /* 避免撑满全宽 */
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+th, td {
+  border: 1px solid rgba(120, 120, 120, 0.3);
+  padding: 8px 12px;
+}
+
+thead {
+  background-color: rgba(255, 255, 255, 0.05);
+  font-weight: 600;
+}
+
+.highlight pre, .chroma pre {
+  font-size: 1.5rem !important;            /* 调大字体 */
+  line-height: 1.6 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace;
+  padding: 0.3em;
+  border-radius: 8px;
+  overflow-x: auto;
+}

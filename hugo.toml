@@ -5,11 +5,13 @@ theme = 'PaperMod'
 relativeURLs = true
 
 [params]
+  math = true
   defaultTheme = "dark"
   ShowReadingTime = true
   disableSpecial1stPost = true
   disableAssetsIntegrity = true   # 👈 重要：修复 CSS integrity 报错
-
+  ShowCodeCopyButtons = true
+  
   [params.assets]
     disableFingerprinting = true
     customCSS = ["css/extra.css"]

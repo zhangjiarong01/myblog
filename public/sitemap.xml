@@ -26,6 +26,9 @@
     <loc>http://localhost:1313/posts/my-solitude/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/%E8%B4%A2%E5%AF%8C%E6%98%AF%E8%87%AA%E7%94%B1%E7%9A%84%E8%BE%B9%E7%95%8C/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

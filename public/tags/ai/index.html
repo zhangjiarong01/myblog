@@ -35,6 +35,27 @@
     }
 
 </script>
+<link rel="stylesheet" href="../../css/extra.css">
+
+
+<link rel="stylesheet" href="../../katex/katex.min.css" />
+<script defer src="../../katex/katex.min.js"></script>
+<script defer src="../../katex/contrib/auto-render.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (window.renderMathInElement) {
+      renderMathInElement(document.body, {
+        delimiters: [
+          {left: "$$", right: "$$", display: true},
+          {left: "\\[", right: "\\]", display: true},
+          {left: "$", right: "$", display: false},
+          {left: "\\(", right: "\\)", display: false}
+        ]
+      });
+    }
+  });
+</script>
+
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -111,6 +132,7 @@
 与它对话，就像直接与我对话一样。
 实现原理：MCP 工具注册在公司的数据库中，Agent 部署在 Dify 云服务器上，前端界面则是通过 Hugo 和 Cloudflare 搭建的。
 欢迎大家随时与机器人互动，无论是分享想法还是讨论商业合作！
+我已入驻爱发电。 支持链接 👉 https://afdian.com/a/matthewme
 </p>
   </div>
   <footer class="entry-footer"><span title='2025-11-08 00:00:00 +0000 UTC'>November 8, 2025</span>&nbsp;·&nbsp;<span>1 min</span></footer>
